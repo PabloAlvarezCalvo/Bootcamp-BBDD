@@ -1,0 +1,25 @@
+1. Instalar java 11 de Adoptium.net
+ .1 Crear variable de entorno JAVA_HOME
+
+2. Instalar maven en C:
+ .1 Descargar Maven de la web de apache (Binary Zip Archive)
+ .2 Descomprimir en C:\ archivos de programa
+ .3 Crear variable de entorno MAVEN_HOME apuntando a esa carpeta
+ .4 Añadir a la variable de entorno de sistema PATH "%JAVA_HOME%\bin" y "%MAVEN_HOME%\bin"
+
+3. Instalar NVM-windows https://github.com/coreybutler/nvm-windows
+
+4. Instalar Notepad++
+
+5. Instalar Postman
+
+6. Instalar DBeaver
+
+7. Instalar JetBrains Toolbox
+ .1 Elegir Intellij Community
+ 
+8. Instalar VSCode
+ .1 Extensión Prettier
+ .2 Extensión Material Icon Theme (Y set as default)
+ .3 Extensión Angular Language Service, y cambiar a 0.802.3
+ .4 Extensión Angular Snippes, y cambiar a versión 8.2.0
